@@ -1,0 +1,3 @@
+CSV recordings from ROS2 turtlesim 3-lane run, 2026-11-02.
+No personal names, email addresses or credentials are included.
+Source script generated with AI assistance, verified on the user's environment.

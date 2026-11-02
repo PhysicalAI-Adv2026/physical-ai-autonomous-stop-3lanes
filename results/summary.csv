@@ -1,0 +1,4 @@
+trial,start_x,lane_y,stop_x,stop_distance,elapsed_sec,result,source_csv
+A,2.0000,8.4000,7.4754,1.0246,32.218,SUCCESS,video_guides_A_20261102_123057.csv
+B,3.5000,5.5500,7.4766,1.0234,23.473,SUCCESS,video_guides_B_20261102_123057.csv
+C,5.0000,2.7000,7.4752,1.0248,14.563,SUCCESS,video_guides_C_20261102_123057.csv
